@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Welcome to TravelEasy KYC Verification"
+echo "Welcome TravelEasy Verification"
 
 # Collect Full Name
 read -p "Enter your full name: " full_name
