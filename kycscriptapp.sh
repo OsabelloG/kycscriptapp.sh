@@ -2,7 +2,7 @@
 
 echo "Welcome TravelEasy Verification"
 
-# Collect Full Name
+# Provide Full Name
 read -p "Enter your full name: " full_name
 
 # Collect Date of Birth
